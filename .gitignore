@@ -1,0 +1,21 @@
+# Dependencies
+/node_modules
+
+# Build artifacts
+/dist
+
+# Vite
+.vite/
+coverage/
+
+# Environment variables
+.env
+.env.*
+*.local
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
